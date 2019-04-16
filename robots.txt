@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://huodoorai.ui4bk.org/sitemap.xml
